@@ -1,6 +1,6 @@
 package com.cxylk.springframework.test;
 
-import com.cxylk.springframework.beans.factory.BeanFactory;
+import com.cxylk.springframework.beans.BeanFactory;
 import com.cxylk.springframework.beans.factory.config.BeanDefinition;
 import com.cxylk.springframework.test.bean.UserService;
 import org.junit.Test;

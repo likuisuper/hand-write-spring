@@ -1,6 +1,7 @@
-package com.cxylk.springframework.beans.factory;
+package com.cxylk.springframework.beans;
 
 import com.cxylk.springframework.beans.factory.config.BeanDefinition;
+
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
